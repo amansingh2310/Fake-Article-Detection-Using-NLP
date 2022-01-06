@@ -1,4 +1,4 @@
-# Fake News Detection With LSTM Using NLP 
+# Fake News Article Detection With LSTM Using NLP 
 A model to detect fake news on social media or from website by using the concept of Long Short-Term Memory[LSTM] and Natural Language Processing [NLP].
 
 ### Dataset Link : https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
